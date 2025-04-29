@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joe21-dev
 - 👀 I’m interested in Software Development 
-- 🌱 I’m currently learning Js
+- 🌱 I’m currently learning Js Frameworks 
 
 
 <!---
